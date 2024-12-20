@@ -1,4 +1,4 @@
 Thingspeak:
 
-ciaveo@undeep.xyz
-ciaveo@Undeep1
+id: ciaveo@undeep.xyz
+pass: ciaveo@Undeep1
